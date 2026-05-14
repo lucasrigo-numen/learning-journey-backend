@@ -25,9 +25,9 @@ The Model-View-Controller (MVC) pattern is an important guideline to organize so
 
 O padrão Model-View-Controller (MVC) é uma diretriz importante para organizar o código do software, evitando confusão durante o desenvolvimento e tornando-o mais legível e fácil de manter.
 
-- [ ] *EN* Wikipedia [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-- [ ] *PT* Wikipedia [MVC](https://pt.wikipedia.org/wiki/MVC)
-- [ ] *PT* Blog Devmedia [Padrão MVC - Java Magazine](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
+- [x] *EN* Wikipedia [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [x] *PT* Wikipedia [MVC](https://pt.wikipedia.org/wiki/MVC)
+- [x] *PT* Blog Devmedia [Padrão MVC - Java Magazine](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
 
 
 ### Client-Server
@@ -35,10 +35,10 @@ The Client-Server model is an early pattern defined for decentralizing applicati
 
 O modelo Cliente-Servidor é um dos primeiros padrões definidos para descentralizar aplicações. É fundamental compreender esse conceito para saber quando implementar uma funcionalidade ou quando delegá-la para o próximo nível.
 
-- [ ] *EN* Wikipedia [Client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-- [ ] *PT* Wikipedia [Modelo cliente-servidor](https://pt.wikipedia.org/wiki/Modelo_cliente%E2%80%93servidor)
-- [ ] *EN* Blog Medium [Client-Server Architecture Explained with Examples, Diagrams, and Real-World Applications](https://medium.com/nerd-for-tech/client-server-architecture-explained-with-examples-diagrams-and-real-world-applications-407e9e04e2d1)
-- [ ] *EN* Blog Geeks for Geeks [Client-Server Model](https://www.geeksforgeeks.org/system-design/client-server-model/)
+- [x] *EN* Wikipedia [Client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+- [x] *PT* Wikipedia [Modelo cliente-servidor](https://pt.wikipedia.org/wiki/Modelo_cliente%E2%80%93servidor)
+- [x] *EN* Blog Medium [Client-Server Architecture Explained with Examples, Diagrams, and Real-World Applications](https://medium.com/nerd-for-tech/client-server-architecture-explained-with-examples-diagrams-and-real-world-applications-407e9e04e2d1)
+- [x] *EN* Blog Geeks for Geeks [Client-Server Model](https://www.geeksforgeeks.org/system-design/client-server-model/)
 
 
 ### Events
@@ -46,17 +46,17 @@ Reactive programming starts with the understanding of the Event concept. Start y
 
 A programação reativa começa com a compreensão do conceito de Evento. Inicie seu aprendizado com eventos de páginas web e você entenderá facilmente o significado de um evento em Engenharia de Software.
 
-- [ ] *EN* W3Schools [JavaScript Events](https://www.w3schools.com/js/js_events.asp)
-- [ ] *PT* MDN [Introdução a Eventos](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/Events)
+- [x] *EN* W3Schools [JavaScript Events](https://www.w3schools.com/js/js_events.asp)
+- [x] *PT* MDN [Introdução a Eventos](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/Events)
 
 ### APIs
 An Application Programming Interface, as the name implies, is an interface. This means that if you want to interact with it, you must follow the interface definition, like a contract between you and whatever is behind the API. It also means that the API is not the software itself, but rather an agreement on how to communicate with the server that's providing it.
 
 Uma Interface de Programação de Aplicações, como o nome sugere, é uma interface. Isso significa que, se você quiser interagir com ela, deve seguir a definição da interface, como um contrato entre você e o que está por trás da API. Também significa que a API não é o próprio software, mas sim um acordo sobre como se comunicar com o servidor que a fornece.
 
-- [ ] *EN* Wikipedia [API](https://en.wikipedia.org/wiki/API)
-- [ ] *PT* Wikipedia [Interface de programação de aplicações](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
-- [ ] *EN* Github [What is an API?](https://github.com/resources/articles/what-is-an-api)
+- [x] *EN* Wikipedia [API](https://en.wikipedia.org/wiki/API)
+- [x] *PT* Wikipedia [Interface de programação de aplicações](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)
+- [x] *EN* Github [What is an API?](https://github.com/resources/articles/what-is-an-api)
 
 ### REST and OData
 Learn about the principles of REpresentational State Transfer (REST) and understand how much you can rely on the other systems your application communicates with.
@@ -65,11 +65,11 @@ In the SAP world, the Open Data Protocol (OData) is the go-to protocol for commu
 Conheça os princípios do REpresentational State Transfer (REST) e entenda até que ponto você pode confiar nos outros sistemas com os quais sua aplicação se comunica.
 No mundo SAP, o Open Data Protocol (OData) é o protocolo padrão para comunicação. Aprenda a utilizá-lo e domine a comunicação da sua aplicação.
 
-- [ ] *EN* Tutorial [What is REST?](https://restfulapi.net/)
-- [ ] *PT* Wikipedia [REST](https://pt.wikipedia.org/wiki/REST)
-- [ ] *EN* odata.org [OData - Getting Started](https://www.odata.org/getting-started/)
-- [ ] **Northwind OData example service [Northwind](https://services.odata.org/Northwind/Northwind.svc/)**
-- [ ] *PT* StackOverflow [O que é e para que serve OData](https://pt.stackoverflow.com/questions/284722/o-que-%C3%A9-e-para-que-serve-odata)
+- [x] *EN* Tutorial [What is REST?](https://restfulapi.net/)
+- [x] *PT* Wikipedia [REST](https://pt.wikipedia.org/wiki/REST)
+- [x] *EN* odata.org [OData - Getting Started](https://www.odata.org/getting-started/)
+- [x] **Northwind OData example service [Northwind](https://services.odata.org/Northwind/Northwind.svc/)**
+- [x] *PT* StackOverflow [O que é e para que serve OData](https://pt.stackoverflow.com/questions/284722/o-que-%C3%A9-e-para-que-serve-odata)
 - [ ] *PT* Blog [Erik](https://github.com/ErikB2RISE)'s Medium [Você provavelmente está implementando filtros errado na sua API REST](https://medium.com/@coderik1996/filtros-em-apis-rest-n%C3%A3o-s%C3%A3o-s%C3%B3-query-params-b7d8046d5988)
 
 ## Level 2
@@ -131,20 +131,19 @@ As Computer Scientists know, the best software in the world is not enough to bea
 Como os Cientistas da Computação sabem, o melhor software do mundo não é suficiente para vencer um algoritmo de alta complexidade. Aprenda a notação Big O e como identificar a complexidade dos principais algoritmos.
 ![Big-O Chart](big-o%20chart.png)
 
-- [ ] *PT* Wikipedia [Complexidade Computacional](https://pt.wikipedia.org/wiki/Complexidade_computacional)
-- [ ] *EN* Geeks for Geeks Tutorial [Complete Guide On Complexity Analysis - Data Structure and Algorithms Tutorial](https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/)
-- [ ] *PT* Blog Iugu [Análise da Complexidade de Algoritmos](https://www.iugu.com/blog/analise-complexidade-algoritmos)
-- [ ] *PT* Lapix [Complexidade de Algoritmos](https://lapix.ufsc.br/ensino/estrutura-de-dados/complexidade-de-algoritmos/)
-
-- [ ] *EN* Big-O Cheat Sheet [Know Thy Complexities](https://www.bigocheatsheet.com/)
+- [x] *PT* Wikipedia [Complexidade Computacional](https://pt.wikipedia.org/wiki/Complexidade_computacional)
+- [x] *EN* Geeks for Geeks Tutorial [Complete Guide On Complexity Analysis - Data Structure and Algorithms Tutorial](https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/)
+- [x] *PT* Blog Iugu [Análise da Complexidade de Algoritmos](https://www.iugu.com/blog/analise-complexidade-algoritmos)
+- [x] *PT* Lapix [Complexidade de Algoritmos](https://lapix.ufsc.br/ensino/estrutura-de-dados/complexidade-de-algoritmos/)
+- [x] *EN* Big-O Cheat Sheet [Know Thy Complexities](https://www.bigocheatsheet.com/)
 
 ### Microservices
 Larger applications in similar contexts share common features. Break down those features into distinct small (micro) services and share them across your applications.
 
 Aplicações maiores em contextos semelhantes compartilham funcionalidades comuns. Separe essas funcionalidades em pequenos (micro) serviços distintos e compartilhe-os entre suas aplicações.
 
-- [ ] *EN* microservices.io [What are microservices?](https://microservices.io/)
-- [ ] *PT* AWS [Microsserviços](https://aws.amazon.com/pt/microservices/)
+- [x] *EN* microservices.io [What are microservices?](https://microservices.io/)
+- [x] *PT* AWS [Microsserviços](https://aws.amazon.com/pt/microservices/)
 - [ ] *EN* Geeks for Geeks [Microservices](https://www.geeksforgeeks.org/system-design/microservices/)
 - [ ] *EN* Martin Fowler [Microservices](https://martinfowler.com/articles/microservices.html)
 

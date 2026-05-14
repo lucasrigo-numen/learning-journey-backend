@@ -26,73 +26,73 @@ It is essential to understand how data is displayed in our browser. Generally, e
 
 É essencial entender como os dados são exibidos em nosso navegador. Geralmente, toda Interface Gráfica do Usuário (GUI) atualmente é exibida usando o formato HTML/CSS. Ao aprender isso, você usará seu navegador como uma ferramenta poderosa no desenvolvimento.
 
-- [ ] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
-- [ ] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
-- [ ] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
-- [ ] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
-- [ ] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
+- [x] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
+- [x] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
+- [x] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
+- [x] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+- [x] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
 
 ### **JavaScript**
 JavaScript is the programming language used by the browsers to perform operations in the web page and to communicate with the server (backend). Therefore, if you want to program, you need to have some understanding of JS.
 
 JavaScript é a linguagem de programação utilizada pelos navegadores para realizar operações na página web e para se comunicar com o servidor (backend). Portanto, se você deseja programar, é necessário ter algum entendimento de JS.
 
-- [ ] *EN* W3Schools [JS Intro](https://www.w3schools.com/js/js_intro.asp)
-- [ ] *EN* W3Schools [AJAX Intro](https://www.w3schools.com/js/js_ajax_intro.asp)
+- [x] *EN* W3Schools [JS Intro](https://www.w3schools.com/js/js_intro.asp)
+- [x] *EN* W3Schools [AJAX Intro](https://www.w3schools.com/js/js_ajax_intro.asp)
 - [ ] *EN/ES* [The Modern JavaScript Tutorial](https://javascript.info/)
-- [ ] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
-- [ ] *PT* USP [Aprendendo JavaScript](https://repositorio.usp.br/directbitstream/4cd7f9b7-7144-40f4-bfd0-7a1d9a6bd748/nd_72.pdf)
-- [ ] *PT* Khan Academy [Programação de computadores - JavaScript e a web](https://pt.khanacademy.org/computing/computer-programming)
+- [x] *PT* MDN [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting)
+- [x] *PT* USP [Aprendendo JavaScript](https://repositorio.usp.br/directbitstream/4cd7f9b7-7144-40f4-bfd0-7a1d9a6bd748/nd_72.pdf)
+- [x] *PT* Khan Academy [Programação de computadores - JavaScript e a web](https://pt.khanacademy.org/computing/computer-programming)
 
 ### **Node.js/npm**
 JavaScript became so common in the web environment that the frontend developers, experts in JS, started creating their own code for backend using JS as well. It's now known as Server-Side JavaScript. The most known and used runtime environment is Node.js.
 
 JavaScript se tornou tão comum no ambiente web que os desenvolvedores frontend, especialistas em JS, começaram a criar seu próprio código para o backend usando também JS. Isso ficou conhecido como Server-Side JavaScript. O ambiente de execução mais conhecido e utilizado é o Node.js.
 
-- [ ] *PT* Blog RocketSeat [Dominando o Node.js](https://www.rocketseat.com.br/blog/artigos/post/dominando-node-js)
+- [x] *PT* Blog RocketSeat [Dominando o Node.js](https://www.rocketseat.com.br/blog/artigos/post/dominando-node-js)
 - [ ] *PT* MDN [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)
-- [ ] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [ ] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
+- [x] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [x] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
 - [ ] *EN* Nodejs.org [Node.js Learn](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
-- [ ] *EN* Nodejs.org [An introduction to the npm package manager](https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager)
-- [ ] *EN* Blog [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
+- [x] *EN* Nodejs.org [An introduction to the npm package manager](https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager)
+- [x] *EN* Blog [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
 
 ### **SQL**
 Database operations can be very powerful if you understand the Entities and their Relationship. The query language that consolidated over the years, SQL, is your tool to operate a database. Knowing how to create a query can be the make or break of the performance of your application.
 
 Operações com banco de dados podem ser muito poderosas se você entender as Entidades e seus Relacionamentos. A linguagem de consulta que se consolidou ao longo dos anos, SQL, é sua ferramenta para operar um banco de dados. Saber como criar uma consulta pode ser decisivo na performance da sua aplicação.
-- [ ] *EN* W3Schools [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
-- [ ] *PT* DevMedia [Guia Completo de SQL](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
-- [ ] *EN* Online SQL Playground [DB Fiddle](https://www.db-fiddle.com/)
+- [x] *EN* W3Schools [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
+- [x] *PT* DevMedia [Guia Completo de SQL](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
+- [x] *EN* Online SQL Playground [DB Fiddle](https://www.db-fiddle.com/)
 
 ### **VSCode (IDE)**
 Visual Studio Code (VSCode) is our Integrated Development Environment (IDE) of choice. Learn how to work with it, its shortctuts, the location of your tools and how to use them. Your tools must aid you in your job, not be an obstacle.
 
 O Visual Studio Code (VSCode) é o nosso Ambiente de Desenvolvimento Integrado (IDE) de escolha. Aprenda a utilizá-lo, seus atalhos, a localização das suas ferramentas e como usá-las. Suas ferramentas devem ajudar no seu trabalho, não serem um obstáculo.
 
-- [ ] *EN* Get started with Visual Studio Code [VSCode Getting Started](https://code.visualstudio.com/docs/getstarted/getting-started)
-- [ ] *PT* Blog RocketSeat [Guia de configuração do VSCode para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/configurar-ambiente-vscode-iniciantes)
-- [ ] *PT* Pacote de Idioma Português Brasileiro para VS Code [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
+- [x] *EN* Get started with Visual Studio Code [VSCode Getting Started](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [x] *PT* Blog RocketSeat [Guia de configuração do VSCode para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/configurar-ambiente-vscode-iniciantes)
+- [x] *PT* Pacote de Idioma Português Brasileiro para VS Code [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
 
 ### **Git (Versionamento)**
 Git is a Distributed Version Control System. It's used to maintain source code safe from the birth to the deprecation of the software, and properly support it during the evolution. **Never code without a version control**.
 
 Git é um Sistema de Controle de Versão Distribuído. Ele é usado para manter o código-fonte seguro desde o nascimento até a descontinuação do software, e para dar suporte adequado durante sua evolução. **Nunca programe sem um controle de versão**.
 
-- [ ] *EN/PT* Create an account on GitHub. Crie uma conta no [GitHub](https://github.com/?locale=pt-br)
-- [ ] *EN/PT* Request access to the Numen Org on GitHub. Solicite acesso à [Numen Org no GitHub](https://github.com/numen-dev)
-- [ ] *EN* git-scm.com [About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- [ ] *PT* git-scm.com [Sobre o Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Sobre-Controle-de-Vers%c3%a3o)
-- [ ] *PT* git-scm.com [O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
-- [ ] *EN* W3Schools [Git](https://www.w3schools.com/git/default.asp)
+- [x] *EN/PT* Create an account on GitHub. Crie uma conta no [GitHub](https://github.com/?locale=pt-br)
+- [x] *EN/PT* Request access to the Numen Org on GitHub. Solicite acesso à [Numen Org no GitHub](https://github.com/numen-dev)
+- [x] *EN* git-scm.com [About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [x] *PT* git-scm.com [Sobre o Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Sobre-Controle-de-Vers%c3%a3o)
+- [x] *PT* git-scm.com [O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+- [x] *EN* W3Schools [Git](https://www.w3schools.com/git/default.asp)
 
 ### **Python**
 Python is a readable programming language, close to English, and has a large community and massive library. Lately, it has been dominant in the fields of Data Science and Artificial Intelligence. It's important to know some Python in case you're faced with mathematical applications (NumPy) or the recent Large Language Models (LLM): Transformers, LangChain, etc.. You may also face backend web frameworks, such as Django or Flask.
 
 Python é uma linguagem de programação legível, próxima do inglês, com uma grande comunidade e uma vasta biblioteca. Recentemente, ela tem sido dominante nas áreas de Ciência de Dados e Inteligência Artificial. É importante conhecer um pouco de Python caso você se depare com aplicações matemáticas (NumPy) ou com os recentes Modelos de Linguagem de Grande Escala (LLM): Transformers, LangChain, etc. Você também pode encontrar frameworks web para backend, como Django ou Flask.
 
-- [ ] *PT* Python.org [O tutorial do Python](https://docs.python.org/pt-br/3/tutorial/index.html)
-- [ ] *EN* W3Schools [Python Intro](https://www.w3schools.com/python/python_intro.asp)
+- [x] *PT* Python.org [O tutorial do Python](https://docs.python.org/pt-br/3/tutorial/index.html)
+- [x] *EN* W3Schools [Python Intro](https://www.w3schools.com/python/python_intro.asp)
 - [ ] *EN* Jupyter Notebook[Learning Python 3](https://gist.github.com/kenjyco/69eeb503125035f21a9d)
 - [ ] *EN* Course Udacity [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
@@ -101,20 +101,20 @@ Java is the go-to language to learn Object Oriented Programming (OOP). This is a
 
 Java é a linguagem ideal para aprender Programação Orientada a Objetos (OOP). Esse é um conceito fundamental para Engenharia de Software, por isso é crucial aprendê-lo cedo. Mesmo que você não utilize OOP futuramente, a separação de responsabilidades que você aprende com Objetos, Classes e Instâncias terá grande influência na organização e modularização do seu código.
 
-- [ ] *EN* W3Schools [Java Intro](https://www.w3schools.com/java/java_intro.asp)
-- [ ] *PT* Blog Rocketseat [Java: Um guia completo para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/como-comecar-aprender-java-guia-iniciantes)
+- [x] *EN* W3Schools [Java Intro](https://www.w3schools.com/java/java_intro.asp)
+- [x] *PT* Blog Rocketseat [Java: Um guia completo para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/como-comecar-aprender-java-guia-iniciantes)
 
 ### **Bash/Batch/PowerShell**
 Before the mouse cursor and graphical interfaces were a thing, everything had to be done with the keyboard. Even today, where we can click our way out of any situation, it's still incredibly useful to learn the underlying commands that are executed with every click.
 
 Antes do cursor do mouse e das interfaces gráficas existirem, tudo precisava ser feito pelo teclado. Mesmo hoje, quando podemos resolver quase tudo com cliques, ainda é extremamente útil conhecer os comandos executados por trás de cada ação.
 
-- [ ] *EN* W3Schools [Bash Intro](https://www.w3schools.com/bash/index.php)
-- [ ] *PT* learn.microsoft [Bash para iniciantes](https://learn.microsoft.com/pt-br/shows/bash-for-beginners/)
-- [ ] *PT* UFP [Tutorial do Bash](https://www.inf.ufpr.br/cursos/ci055/artigos_linux_veteranos/gbbs14.pdf)
-- [ ] *EN* Blog freeCodeCamp [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
-- [ ] *EN* learn.microsoft [Getting started with PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.6)
-- [ ] *PT* learn.microsoft [O que é o PowerShell?](https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.6)
+- [x] *EN* W3Schools [Bash Intro](https://www.w3schools.com/bash/index.php)
+- [x] *PT* learn.microsoft [Bash para iniciantes](https://learn.microsoft.com/pt-br/shows/bash-for-beginners/)
+- [x] *PT* UFP [Tutorial do Bash](https://www.inf.ufpr.br/cursos/ci055/artigos_linux_veteranos/gbbs14.pdf)
+- [x] *EN* Blog freeCodeCamp [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+- [x] *EN* learn.microsoft [Getting started with PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.6)
+- [x] *PT* learn.microsoft [O que é o PowerShell?](https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.6)
 
 
 ## Level 2
@@ -156,9 +156,9 @@ How does a declarative statement, an SQL Query, transforms into a dataset? That'
 
 Como uma frase declarativa, uma consulta SQL, se transforma em um conjunto de dados? Esse é o trabalho do SGBD. Como as tabelas se recuperam de um desastre ou de uma exceção durante uma transação? Isso também é responsabilidade do SGBD. Aprenda sobre Sistemas de Gerenciamento de Banco de Dados para entender qual é o mais adequado para cada aplicação.
 
-- [ ] *EN* Geeks for Geeks [DBMS Tutorial](https://www.geeksforgeeks.org/dbms/dbms/)
-- [ ] *PT* Wikipedia [SGBD](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados)
-- [ ] *PT* Escola Superior de Redes [SGBD](https://esr.rnp.br/desenvolvimento-de-sistemas/sistemas-gerenciadores-de-banco-de-dados/)
+- [x] *EN* Geeks for Geeks [DBMS Tutorial](https://www.geeksforgeeks.org/dbms/dbms/)
+- [x] *PT* Wikipedia [SGBD](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados)
+- [x] *PT* Escola Superior de Redes [SGBD](https://esr.rnp.br/desenvolvimento-de-sistemas/sistemas-gerenciadores-de-banco-de-dados/)
 
 ### **TDD**
 Once you develop about 6–7 features, you'll quickly get tired of testing all of them manually. That's why we automate testing. However, developers often say there's no time to write tests. That's where TDD comes in: start with the test so that it's an inherent part of development and can't be skipped.
@@ -186,7 +186,7 @@ Continue your Git learning understanding local and remote repositories, branches
 
 Continue seu aprendizado em Git entendendo repositórios locais e remotos, branches, merges e pull-requests.
 
-- [ ] *EN* W3Schools [Git Branches](https://www.w3schools.com/git/git_branch.asp?remote=github)
+- [x] *EN* W3Schools [Git Branches](https://www.w3schools.com/git/git_branch.asp?remote=github)
 - [ ] *PT* git-scm.com [Branches no Git](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras)
 
 ### **Regex**
@@ -194,8 +194,8 @@ Regular Expressions are a way to define patterns against which text will be matc
 
 Expressões Regulares são uma forma de definir padrões contra os quais textos serão comparados. A correspondência de padrões é uma maneira extremamente concisa e eficiente de buscar, filtrar e encontrar strings em textos.
 
-- [ ] *PT* Blog [Regex: Um guia prático para expressões regulares](https://medium.com/xp-inc/regex-um-guia-pratico-para-express%C3%B5es-regulares-1ac5fa4dd39f)
-- [ ] *EN* RegexOne [Regex Interactive Tutorial](https://regexone.com/)
+- [x] *PT* Blog [Regex: Um guia prático para expressões regulares](https://medium.com/xp-inc/regex-um-guia-pratico-para-express%C3%B5es-regulares-1ac5fa4dd39f)
+- [x] *EN* RegexOne [Regex Interactive Tutorial](https://regexone.com/)
 
 
 ## Level 3
@@ -209,12 +209,12 @@ Artificial Intelligence (AI), especially now with Large Language Models (LLMs), 
 
 Inteligência Artificial (IA), especialmente agora com os Modelos de Linguagem de Grande Escala (LLMs), pode ser uma aliada poderosa ou uma dor de cabeça. Aprenda a programar com assistentes de IA, o que você pode pedir a eles e o que pode esperar dessas ferramentas. Entenda como e quando utilizá-las. Use-as com sabedoria.
 
-- *EN* **Martin Fowler [Patterns for Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/)**
-- *EN* Coursera [Jetbrains AI-Assisted Programming](https://www.coursera.org/learn/ai-assisted-programming)
-- *EN* O'Reilly Book [AI-Assisted
+- [ ] *EN* **Martin Fowler [Patterns for Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/)**
+- [ ] *EN* Coursera [Jetbrains AI-Assisted Programming](https://www.coursera.org/learn/ai-assisted-programming)
+- [ ] *EN* O'Reilly Book [AI-Assisted
 Programming - Tom Taulli](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
   >AI assistants are like junior developers with infinite energy but zero context.
-- *PT* Google [Ferramentas de programação e geração de código com IA](https://cloud.google.com/use-cases/ai-code-generation?hl=pt-BR)
+- [ ]*PT* Google [Ferramentas de programação e geração de código com IA](https://cloud.google.com/use-cases/ai-code-generation?hl=pt-BR)
 
 
 ### **Container (Kyma, Docker, K8s)**
@@ -223,7 +223,7 @@ Programming - Tom Taulli](https://www.hkdca.com/wp-content/uploads/2025/06/ai-as
 "Funciona na minha máquina" é apenas o primeiro passo em uma longa jornada rumo a uma aplicação estável. O software então será executado em um servidor, uma máquina. Depois, essa máquina é virtualizada. Mais tarde, cada implantação cria uma nova Máquina Virtual (VM). Com o tempo, você percebe que não precisa virtualizar a máquina inteira, apenas certas partes dela, e chama isso de container. Por fim, você precisa gerenciar todos esses containers que são criados e destruídos automaticamente.
 
 - [ ] *EN* docker-curriculum [docker for beginners](https://docker-curriculum.com/)
-- [ ] *PT* blog DataCamp [Docker para iniciantes](https://www.datacamp.com/pt/tutorial/docker-tutorial)
+- [x] *PT* blog DataCamp [Docker para iniciantes](https://www.datacamp.com/pt/tutorial/docker-tutorial)
 - [ ] *PT* AWS [Qual a diferença entre o Kubernetes e o Docker?](https://aws.amazon.com/pt/compare/the-difference-between-kubernetes-and-docker/)
 - [ ] *EN* Atlassian [Kubernetes vs. Docker](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker)
 - [ ] *EN* developers.sap [Build an Application in SAP BTP, Kyma Runtime](https://developers.sap.com/mission.cp-kyma-build-app.html)
