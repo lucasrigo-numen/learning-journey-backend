@@ -27,7 +27,7 @@ A Inteligência Artificial é um ramo da Ciência da Computação focado na cria
 No início, os principais sistemas de IA eram baseados em regras: definia-se um conjunto de regras e, dados os parâmetros, uma delas seria acionada. Isso não parece nada *inteligente*, pois o sistema é "burro" e apenas segue regras. Depois, com a evolução do poder computacional e da memória, os modelos probabilísticos começaram a ganhar espaço, pois existem muitas situações do mundo real que não cabem em um conjunto razoável de regras. Com as *Redes Neurais*, sistemas foram construídos e treinados em grandes conjuntos de dados para que, probabilisticamente, dessem a resposta correta, com um percentual de confiança. Nesse ponto, os sistemas de IA eram impressionantes, mas pouco utilizáveis. Eventualmente, essas Redes Neurais foram ampliadas a tal ponto que receberam um novo nome, *Deep Learning*, e finalmente apresentaram resultados práticos com grande precisão (como 98%-99% para reconhecimento de imagens). Por fim, ao tentar criar um modelo geral, alguém deixou o computador treinando por semanas e esqueceu dele. Quando o cientista percebeu, descobriu um modelo capaz de gerar dados consistentes. Ele percebeu que, ao treinar em conjuntos de dados massivos (terabytes), esses modelos eram capazes de resultados notáveis. É daí que vêm os *Large Language Models (LLM)*.
 
 - [ ] *PT* Blog Datacamp [Como aprender IA do zero em 2026](https://www.datacamp.com/pt/blog/how-to-learn-ai)
-- [ ] *EN* Tutorial W3Schools [Machine Learning](https://www.w3schools.com/ai/default.asp)
+- [x] *EN* Tutorial W3Schools [Machine Learning](https://www.w3schools.com/ai/default.asp)
 
 ### When to use (and when not)
 
@@ -35,9 +35,9 @@ Don't be fooled by the hype in the news and advertisements. You, the human, are 
 
 Não se deixe enganar pelo hype das notícias e dos anúncios. Você, o humano, ainda é essencial. No entanto, se quiser continuar sendo essencial, precisa ser melhor do que um assistente de IA. Você precisa ser humano e pensar como humano. Só assim estará pronto para usar a IA como uma ferramenta, como um assistente, como algo para ajudá-lo. Aprenda quando é apropriado usar IA e quando não é. Pense nisso: quão útil seria se eu lhe desse um robô que vai à academia por você?
 
-- [ ] *EN* [University graduates boo commencement speaker for calling AI 'next industrial revolution'](https://www.youtube.com/shorts/3Lh2gg0mFNI)
-- [ ] *EN* Blog One Useful Thing [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
-- [ ] *EN* *PT* Video Google [When to use generative AI vs. traditional AI vs. no AI](https://www.youtube.com/watch?v=ih1sUFWAgxU)
+- [x] *EN* [University graduates boo commencement speaker for calling AI 'next industrial revolution'](https://www.youtube.com/shorts/3Lh2gg0mFNI)
+- [x] *EN* Blog One Useful Thing [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
+- [x] *EN* *PT* Video Google [When to use generative AI vs. traditional AI vs. no AI](https://www.youtube.com/watch?v=ih1sUFWAgxU)
 - [ ] *PT* Document Google [Quando usar IA generativa ou IA tradicional](https://docs.cloud.google.com/docs/ai-ml/generative-ai/generative-ai-or-traditional-ai?hl=pt-br)
 
 ### Prompt Engineering
@@ -62,9 +62,9 @@ Learn how to use the AI Assistant as your pair programmer. Ask it to summarize y
 Aprenda a usar o Assistente de IA como seu par de programação. Peça para ele resumir seu código, encontrar falhas, identificar riscos de segurança, gerar testes, raciocinar se é a maneira certa ou melhor de realizar uma tarefa, ou ajudá-lo a entender uma base de código grande que você está vendo pela primeira vez.
 
 - [ ] *EN* Blog Medium [Effectively Using an AI Coding Assistant](https://medium.com/@csw11235/effectively-using-an-ai-coding-assistant-1e79ae2c6f6e)
-- [ ] *EN* Blog Medium [I Tested Every AI Coding Assistant: Here’s What Actually Works](https://blog.stackademic.com/i-tested-every-ai-coding-assistant-heres-what-actually-works-a87b50c78852)
+- [x] *EN* Blog Medium [I Tested Every AI Coding Assistant: Here’s What Actually Works](https://blog.stackademic.com/i-tested-every-ai-coding-assistant-heres-what-actually-works-a87b50c78852)
 - [ ] *EN* Blog Frontend Mentor [AI coding assistants for beginners: How to learn without losing your skills](https://www.frontendmentor.io/articles/ai-coding-assistants-for-beginners)
-- [ ] ***EN* Guide nx.dev [A Practical Guide on Effective AI Use - AI as Your Peer Programmer](https://nx.dev/blog/practical-guide-effective-ai-coding)**
+- [x] ***EN* Guide nx.dev [A Practical Guide on Effective AI Use - AI as Your Peer Programmer](https://nx.dev/blog/practical-guide-effective-ai-coding)**
 - [ ] *PT* Blog cronapp.io [Como usar a IA como assistente em ambiente de desenvolvimento?](https://blog.cronapp.io/ia-como-assistente-ambiente-de-desenvolvimento/)
 
 ### Automation with AI

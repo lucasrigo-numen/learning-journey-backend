@@ -24,8 +24,8 @@ Learn what Enterprise Resource Planning (ERP) software is and how it is generall
 Saiba o que é um software de Planejamento de Recursos Empresariais (ERP) e como ele é geralmente organizado. Explore os principais módulos do SAP para entender quais informações eles gerenciam.
 
 - [ ] *PT* Playlist Youtube KA Solution [SAP em 5 minutos](https://www.youtube.com/playlist?list=PLvOO1q9F-HhWjbrVZ0CZSTjy9S2HETimW)
-- [ ] *PT* SAP [O que é SAP?](https://www.sap.com/brazil/about/what-is-sap.html)
-- [ ] *PT* SAP [O que é ERP?](https://www.sap.com/brazil/resources/what-is-erp)
+- [x] *PT* SAP [O que é SAP?](https://www.sap.com/brazil/about/what-is-sap.html)
+- [x] *PT* SAP [O que é ERP?](https://www.sap.com/brazil/resources/what-is-erp)
 - [ ] *EN* Blog [Top SAP Modules For Freshers: Which SAP Module Should You Learn First?](https://infycletechnologies.com/top-sap-modules-for-freshers-which-sap-module-should-you-learn-first/)
 - [ ] *EN* Blog [An Overview of the Most Important SAP Modules](https://ecosio.com/en/blog/an-overview-of-the-most-important-sap-erp-modules/)
 
@@ -35,7 +35,7 @@ A Cloud Platform must be able to support its applications by either providing th
 Uma Plataforma em Nuvem deve ser capaz de suportar suas aplicações, seja fornecendo os recursos e serviços de que elas precisam, seja permitindo o acesso a provedores de serviços externos. A solução da SAP para isso é chamada de SAP Business Technology Platform, pois oferece os recursos e serviços necessários para um negócio.
 
 - [ ] *PT* Moovi [SAP BTP Essentials](https://moovi.curseduca.pro/m/lessons/sap-btp-essentials-1742323798510)
-- [ ] *PT* SAP [SAP Business Technology Platform](https://www.sap.com/brazil/products/technology-platform.html)
+- [x] *PT* SAP [SAP Business Technology Platform](https://www.sap.com/brazil/products/technology-platform.html)
 - [ ] *EN* Course learning.sap [Becoming an SAP BTP Solution Architect](https://learning.sap.com/courses/becoming-an-sap-btp-solution-architect/)
 
 ### BTP Services
@@ -65,17 +65,17 @@ Integration Suite
 PosgreSQL, Hyperscaler Option
 ```
 
-- [ ] *EN* SAP Discovery Center [SAP BTP Services](https://discovery-center.cloud.sap/viewServices?solution=foundation/crossservices)
-- [ ] *PT* Blog AlfaERP [Funcionalidades e recursos do SAP BTP](https://alfaerp.com.br/blog/sap-btp-sap-business-technology-platform/#elementor-toc__heading-anchor-1)
+- [x] *EN* SAP Discovery Center [SAP BTP Services](https://discovery-center.cloud.sap/viewServices?solution=foundation/crossservices)
+- [x] *PT* Blog AlfaERP [Funcionalidades e recursos do SAP BTP](https://alfaerp.com.br/blog/sap-btp-sap-business-technology-platform/#elementor-toc__heading-anchor-1)
 
 ### Cloud Foundry
 Cloud Foundry is the main runtime of SAP BTP. It enables quick and efficient deployment of applications, easily managing startup, restart, shutdown, scaling, and integration with platform services.
 
 Cloud Foundry é o principal runtime do SAP BTP. Ele permite a implantação rápida e eficiente de aplicações, gerenciando facilmente inicialização, reinicialização, desligamento, escalabilidade e integração com os serviços da plataforma.
 
-- [ ] *EN* cloudfoundr.oth [Cloud Foundry Introduction](https://tutorials.cloudfoundry.org/cf4devs/introduction/)
-- [ ] *EN* learning.sap [Developing Applications for SAP BTP, Cloud Foundry runtime](https://learning.sap.com/courses/developing-applications-for-sap-btp-cloud-foundry-runtime)
-- [ ] *PT* Red Hat [O que é o Cloud Foundry?](https://www.redhat.com/pt-br/topics/application-modernization/what-is-cloud-foundry)
+- [x] *EN* cloudfoundr.org [Cloud Foundry Introduction](https://tutorials.cloudfoundry.org/cf4devs/introduction/)
+- [x] *EN* learning.sap [Developing Applications for SAP BTP, Cloud Foundry runtime](https://learning.sap.com/courses/developing-applications-for-sap-btp-cloud-foundry-runtime)
+- [x] *PT* Red Hat [O que é o Cloud Foundry?](https://www.redhat.com/pt-br/topics/application-modernization/what-is-cloud-foundry)
 
 ### Work Zone (Standard)
 The [Fiori](https://www.sap.com/design-system/fiori-design-web/v1-145/discover/get-started) design is present everywhere in modern SAP technologies. One of its core features is the standard [Launchpad](https://www.sap.com/design-system/fiori-design-web/v1-145/foundations/integration-and-services/sap-fiori-launchpad/launchpad), which has now evolved and is called Work Zone.
@@ -83,19 +83,19 @@ The [Fiori](https://www.sap.com/design-system/fiori-design-web/v1-145/discover/g
 O design Fiori está presente em todas as tecnologias modernas da SAP. Um de seus principais recursos é o Launchpad padrão, que agora evoluiu e se chama Work Zone.
 
 - [ ] *PT* Moovi [SAP Build Workzone](https://moovi.curseduca.pro/m/lessons/sap-build-workzone-1753803811834)
-- [ ] *EN* SAP Discovery Center [SAP Build Work Zone, standard edition](https://discovery-center.cloud.sap/serviceCatalog/sap-build-work-zone-standard-edition)
-- [ ] *EN* Tutorial developers.sap [Create a Business Site Using SAP Build Work Zone, standard edition, and Add Applications and UI5 Cards to It](https://developers.sap.com/mission.launchpad-cf.html)
-- [ ] *EN* help.sap [What Is SAP Build Work Zone, standard edition?](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition?locale=en-US)
-- [ ] *PT* help.sap [O que é SAP Build Work Zone, standard edition?](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition?locale=pt-BR)
+- [x] *EN* SAP Discovery Center [SAP Build Work Zone, standard edition](https://discovery-center.cloud.sap/serviceCatalog/sap-build-work-zone-standard-edition)
+- [x] *EN* Tutorial developers.sap [Create a Business Site Using SAP Build Work Zone, standard edition, and Add Applications and UI5 Cards to It](https://developers.sap.com/mission.launchpad-cf.html)
+- [x] *EN* help.sap [What Is SAP Build Work Zone, standard edition?](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition?locale=en-US)
+- [x] *PT* help.sap [O que é SAP Build Work Zone, standard edition?](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition?locale=pt-BR)
 
 ### Clean Core
 What is the Core and why do we want to keep it Clean? As companies realized, adding customizations to their SAP systems came with a cost when evolving and maintaining them. SAP's guideline is to keep SAP's core functionality as standard as possible, so it can evolve more easily and not disrupt any additional features added by the customer.
 
 O que é o Core e por que queremos mantê-lo Clean? As empresas perceberam que adicionar customizações aos seus sistemas SAP trazia um custo na hora de evoluir e manter esses sistemas. A orientação da SAP é manter a funcionalidade central (core) do SAP o mais padrão possível, para que ela possa evoluir mais facilmente e não prejudique recursos adicionais implementados pelo cliente.
 
-- [ ] *PT* SAP [O que é clean core?](https://www.sap.com/brazil/resources/what-is-a-clean-core)
-- [ ] *EN* blogs.sap **ABCD Tiers** [ABAP Extensibility Guide](https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399)
-- [ ] *EN* learning.sap [Practicing Clean Core Extensibility for SAP S/4HANA Cloud](https://learning.sap.com/courses/practicing-clean-core-extensibility-for-sap-s-4hana-cloud/)
+- [x] *PT* SAP [O que é clean core?](https://www.sap.com/brazil/resources/what-is-a-clean-core)
+- [x] *EN* blogs.sap **ABCD Tiers** [ABAP Extensibility Guide](https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399)
+- [x] *EN* learning.sap [Practicing Clean Core Extensibility for SAP S/4HANA Cloud](https://learning.sap.com/courses/practicing-clean-core-extensibility-for-sap-s-4hana-cloud/)
 
 ## Level 2
 **S/4HANA and More BTP**
@@ -112,58 +112,58 @@ What we generally call SAP has come a long way from R/2, R/3, ECC, to S/4HANA. I
 O que geralmente chamamos de SAP percorreu um longo caminho desde o R/2, R/3, ECC até o S/4HANA. Começou como um software puramente alemão e hoje é internacional (padrão em inglês). Devido às limitações de memória da época, possui muitos limites de tamanho de campo e siglas para reduzir o consumo, que permanecem até hoje. Entenda como a SAP evoluiu o legado para um software moderno.
 
 - [ ] *PT* Moovi [SAP S/4HANA Essentials](https://moovi.curseduca.pro/m/lessons/s-4hana-para-funcionais-copia-2025-03-06-15-16-53?moduleId=626)
-- [ ] *EN* Blog SAP LeanIX [SAP ECC, HANA, R/3, and S/4HANA](https://www.leanix.net/en/wiki/tech-transformation/sap-ecc-vs-hana-vs-r3-vs-s4hana)
-- [ ] *PT* Blog [SAP ECC vs S/4HANA: entenda as principais diferenças entre os dois sistemas](https://freirecruz.com/aprenda-as-principais-diferencas-do-sap-ecc-para-o-sap-s-4hana/)
-- [ ] *EN* Blog SAP Press [An Overview of the SAP S/4HANA VDM](https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm)
+- [x] *EN* Blog SAP LeanIX [SAP ECC, HANA, R/3, and S/4HANA](https://www.leanix.net/en/wiki/tech-transformation/sap-ecc-vs-hana-vs-r3-vs-s4hana)
+- [x] *PT* Blog [SAP ECC vs S/4HANA: entenda as principais diferenças entre os dois sistemas](https://freirecruz.com/aprenda-as-principais-diferencas-do-sap-ecc-para-o-sap-s-4hana/)
+- [x] *EN* Blog SAP Press [An Overview of the SAP S/4HANA VDM](https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm)
 
 ### SAP Cloud ERP
 The final evolution of the SAP ERP is the SAP Cloud ERP. It is a highly standardized software that is updated frequently and automatically. Initially, it struggled because it was not ready to meet customers' custom needs, but over the years it has improved and become more open to extensions (in a controlled manner).
 
 A evolução final do SAP ERP é o SAP Cloud ERP. É um software altamente padronizado, atualizado com frequência e de forma automática. No início, enfrentou dificuldades porque não estava pronto para atender às necessidades personalizadas dos clientes, mas ao longo dos anos melhorou e se tornou mais aberto a extensões (de forma controlada).
 
-- [ ] *PT* SAP [SAP Cloud ERP (anteriormente, SAP S/4HANA Cloud Public Edition)](https://www.sap.com/brazil/products/erp/s4hana.html)
-- [ ] *EN* blogs.sap 2022 [Difference between SAP S/4HANA :Public Vs Private edition : RISE with SAP](https://community.sap.com/t5/technology-blog-posts-by-members/difference-between-sap-s-4hana-public-vs-private-edition-rise-with-sap/ba-p/13546250)
-- [ ] *PT* Blog Delaware [SAP S/4HANA Cloud: Private vs. Public](https://www.delaware.pro/pt-br/blogs/sap-s4hana-cloud-public-vs-private)
+- [x] *PT* SAP [SAP Cloud ERP (anteriormente, SAP S/4HANA Cloud Public Edition)](https://www.sap.com/brazil/products/erp/s4hana.html)
+- [x] *EN* blogs.sap 2022 [Difference between SAP S/4HANA :Public Vs Private edition : RISE with SAP](https://community.sap.com/t5/technology-blog-posts-by-members/difference-between-sap-s-4hana-public-vs-private-edition-rise-with-sap/ba-p/13546250)
+- [x] *PT* Blog Delaware [SAP S/4HANA Cloud: Private vs. Public](https://www.delaware.pro/pt-br/blogs/sap-s4hana-cloud-public-vs-private)
 
 ### Job Scheduler
 Whenever you need to trigger your application periodically, the Job Scheduling Service is your first option.
 
 Sempre que você precisar acionar sua aplicação periodicamente, o Job Scheduling Service é sua primeira opção.
 
-- [ ] *EN* SAP Discovery Center [SAP Job Scheduling Service](https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service?region=all)
-- [ ] *EN* help.sap [What is Job Scheduling Service?](https://help.sap.com/docs/job-scheduling/sap-job-scheduling-service/rest-apis?locale=en-US)
-- [ ] *PT* help.sap [O que é o serviço SAP Job Scheduling?](https://help.sap.com/docs/job-scheduling/sap-job-scheduling-service/what-is-sap-job-scheduling-service?locale=pt-BR)
+- [x] *EN* SAP Discovery Center [SAP Job Scheduling Service](https://discovery-center.cloud.sap/serviceCatalog/job-scheduling-service?region=all)
+- [x] *EN* help.sap [What is Job Scheduling Service?](https://help.sap.com/docs/job-scheduling/sap-job-scheduling-service/rest-apis?locale=en-US)
+- [x] *PT* help.sap [O que é o serviço SAP Job Scheduling?](https://help.sap.com/docs/job-scheduling/sap-job-scheduling-service/what-is-sap-job-scheduling-service?locale=pt-BR)
 
 ### HANA
 SAP HANA is not only SAP's proprietary database, but also a powerful in-memory database. It stands out from traditional databases due to its speed and analytical capabilities, enabled by storing and working with data in memory rather than on disk. Eventually, it made its way to the cloud into SAP BTP and it's now called SAP HANA Cloud.
 
 O SAP HANA não é apenas o banco de dados proprietário da SAP, mas também um poderoso banco de dados em memória. Ele se destaca dos bancos de dados tradicionais devido à sua velocidade e capacidades analíticas, possibilitadas pelo armazenamento e trabalho dos dados em memória, ao invés de em disco. Finalmente, ele chegou à nuvem no SAP BTP e agora é chamado de SAP HANA Cloud.
 
-- [ ] *PT* SAP [HANA](https://www.sap.com/brazil/products/data-cloud/hana/what-is-sap-hana.html)
-- [ ] *EN* SAP Press [Learning SAP HANA](https://learning.sap-press.com/sap-hana)
-- [ ] *EN* SAP Discovery Center[SAP HANA Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)
-- [ ] *EN* help.sap [SAP HANA Cloud Getting Started Guide](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-and-sap-business-technology-platform-sap-btp?locale=en-US)
-- [ ] *PT* help.sap [Guia de introdução do SAP HANA Cloud](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-and-sap-business-technology-platform-sap-btp?locale=pt-BR)
+- [x] *PT* SAP [HANA](https://www.sap.com/brazil/products/data-cloud/hana/what-is-sap-hana.html)
+- [x] *EN* SAP Press [Learning SAP HANA](https://learning.sap-press.com/sap-hana)
+- [x] *EN* SAP Discovery Center[SAP HANA Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)
+- [x] *EN* help.sap [SAP HANA Cloud Getting Started Guide](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-and-sap-business-technology-platform-sap-btp?locale=en-US)
+- [x] *PT* help.sap [Guia de introdução do SAP HANA Cloud](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-getting-started-guide/sap-hana-cloud-and-sap-business-technology-platform-sap-btp?locale=pt-BR)
 
 ### HTML5 App Repository
 Static resources such as web pages (HTML) can be stored and managed separately from your applications. The HTML5 App Repository allows you to decouple your app from its UI, resulting in easier maintenance.
 
 Recursos estáticos, como páginas web (HTML), podem ser armazenados e gerenciados separadamente das suas aplicações. O HTML5 App Repository permite desacoplar sua aplicação da interface do usuário, facilitando a manutenção.
 
-- [ ] *EN* SAP Discovery Center [SAP HTML5 Application Repository Service for SAP BTP](https://discovery-center.cloud.sap/serviceCatalog/html5-application-repository-service)
-- [ ] *EN* help.sap [Developing HTML5 Applications in the Cloud Foundry Environment](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-html5-applications-in-cloud-foundry-environment?locale=en-US)
-- [ ] *PT* help.sap [Desenvolvimento de aplicações HTML5 no ambiente Cloud Foundry](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-html5-applications-in-cloud-foundry-environment?version=Cloud&locale=pt-BR&state=PRODUCTION)
+- [x] *EN* SAP Discovery Center [SAP HTML5 Application Repository Service for SAP BTP](https://discovery-center.cloud.sap/serviceCatalog/html5-application-repository-service)
+- [x] *EN* help.sap [Developing HTML5 Applications in the Cloud Foundry Environment](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-html5-applications-in-cloud-foundry-environment?locale=en-US)
+- [x] *PT* help.sap [Desenvolvimento de aplicações HTML5 no ambiente Cloud Foundry](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-html5-applications-in-cloud-foundry-environment?version=Cloud&locale=pt-BR&state=PRODUCTION)
 
 ### CF CLI
 The Cloud Foundry Command Line Interface (cf-cli) is the communication tool between your computer and the CF Environment on SAP BTP. Whether you use GUI commands to deploy your apps or not, under the hood it's the cf-cli running. Learn the main commands and you'll eventually use it to automate your deployments.
 
 A Interface de Linha de Comando do Cloud Foundry (cf-cli) é a ferramenta de comunicação entre seu computador e o ambiente CF no SAP BTP. Mesmo que você utilize comandos gráficos (GUI) para fazer deploy das suas aplicações, por trás é o cf-cli que está em execução. Aprenda os principais comandos, pois você acabará usando a ferramenta para automatizar seus deploys.
 
-- [ ] *EN* cloudfoundry.org [Installing the cf CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
-- [ ] *EN* Tutorial evelopers.sap [Install the Cloud Foundry Command Line Interface (CLI)](https://developers.sap.com/tutorials/cp-cf-download-cli..html)
-- [ ] *EN* SAP Development Tools [SAP BTP Command Line Interface (btp CLI)](https://tools.hana.ondemand.com/#cloud-btpcli)
-- [ ] *EN* cloudfoundry.org [Getting started with the cf CLI](https://docs.cloudfoundry.org/cf-cli/getting-started.html)
-- [ ] *EN* help.sap [Multitarget Application Plugin for Cloud Foundry Command Line Interface](https://help.sap.com/docs/btp/sap-business-technology-platform/multitarget-application-plug-in-for-cloud-foundry-command-line-interface?locale=en-US)
+- [x] *EN* cloudfoundry.org [Installing the cf CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
+- [X] *EN* Tutorial evelopers.sap [Install the Cloud Foundry Command Line Interface (CLI)](https://developers.sap.com/tutorials/cp-cf-download-cli..html)
+- [x] *EN* SAP Development Tools [SAP BTP Command Line Interface (btp CLI)](https://tools.hana.ondemand.com/#cloud-btpcli)
+- [x] *EN* cloudfoundry.org [Getting started with the cf CLI](https://docs.cloudfoundry.org/cf-cli/getting-started.html)
+- [x] *EN* help.sap [Multitarget Application Plugin for Cloud Foundry Command Line Interface](https://help.sap.com/docs/btp/sap-business-technology-platform/multitarget-application-plug-in-for-cloud-foundry-command-line-interface?locale=en-US)
 
 
 ## Level 3
@@ -190,10 +190,10 @@ Even if you're not working with integration, you're likely to come across an Int
 
 Mesmo que você não trabalhe com integração, é provável que você se depare com um Integration Flow (iFlow) em execução no Integration Suite – Cloud Platform Integration (CPI). Seja porque você precisa chamá-lo ou ser chamado por ele, é útil ter um entendimento básico da plataforma e por que ela é amplamente utilizada pelos clientes.
 
-- [ ] *EN* SAP Discovery Center [SAP Integration Suite](https://discovery-center.cloud.sap/serviceCatalog/integration-suite)
-- [ ] *PT* help.sap [O que é o SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?locale=pt-BR)
-- [ ] *EN* bpmn.org [BPMN Quick Guide](https://www.bpmnquickguide.com/quickguide/bpmn-quick-guide/bpmn-basics.html)
-- [ ] *PT* Moovi [SAP Cloud Integration 2.0 (CPI/CI)](https://moovi.curseduca.pro/m/lessons/sap-cloud-integration-2-0-cpici-1734443760098)
+- [x] *EN* SAP Discovery Center [SAP Integration Suite](https://discovery-center.cloud.sap/serviceCatalog/integration-suite)
+- [x] *PT* help.sap [O que é o SAP Integration Suite?](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?locale=pt-BR)
+- [x] *EN* bpmn.org [BPMN Quick Guide](https://www.bpmnquickguide.com/quickguide/bpmn-quick-guide/bpmn-basics.html)
+- [x] *PT* Moovi [SAP Cloud Integration 2.0 (CPI/CI)](https://moovi.curseduca.pro/m/lessons/sap-cloud-integration-2-0-cpici-1734443760098)
 
 ### SAP Documentation
 The best place to look for updated information on SAP products is the **[SAP Help Portal](http://help.sap.com/)**. Here you will find the official SAP product documentation, written by SAP employees. It is constantly updated to keep up with the evolution of the products.
@@ -222,7 +222,7 @@ While it's not mandatory to learn SAP Build Process Automation, it's important t
 
 Embora não seja obrigatório aprender SAP Build Process Automation, é importante ao menos entender os trade-offs de ter uma Automação de Processos Robóticos em comparação com uma Aplicação: custos de manutenção, licenças, velocidade de desenvolvimento e extensibilidade.
 
-- [ ] *EN* SAP Discovery Center [SAP Build Process Automation](https://discovery-center.cloud.sap/serviceCatalog/sap-build-process-automation?region=all)
+- [x] *EN* SAP Discovery Center [SAP Build Process Automation](https://discovery-center.cloud.sap/serviceCatalog/sap-build-process-automation?region=all)
 - [ ] *EN* Tutorial developers.sap [Build Your First Business Process with SAP Build Process Automation](https://developers.sap.com/mission.sap-process-automation.html)
 - [ ] *EN* Course learning.sap [Developing with SAP Build Process Automation](https://learning.sap.com/courses/developing-with-sap-build-process-automation)
 

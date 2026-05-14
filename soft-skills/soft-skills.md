@@ -24,8 +24,8 @@ Learn how to participate in meetings: understand what you should contribute and 
 Aprenda como participar de reuniões: entenda o que você deve contribuir e o que deve levar delas. Você precisa aprender algo ou obter informações em uma reunião, e também deve sair com uma tarefa ou algo para ficar atento. Caso contrário, a reunião foi desnecessária. Para isso, é importante aprender a fazer as perguntas certas e responder de forma adequada.
 
 - [ ] *EN* Blog Semaphore.io [6 Tips for Improving Dev Team Communication and Collaboration](https://semaphore.io/blog/dev-team-communication)
-- [ ] *EN* Blog LinkedIN [Effective Communication for Software Developers: Beyond the Code](http://linkedin.com/pulse/effective-communication-software-developers-beyond-code-naidoo-sf9yf/)
-- [ ] *EN* *ES* **Course Alison [Best Practices for Remote Work](https://alison.com/course/best-practices-for-remote-working)**
+- [ ] *EN* Blog LinkedIn [Effective Communication for Software Developers: Beyond the Code](http://linkedin.com/pulse/effective-communication-software-developers-beyond-code-naidoo-sf9yf/)
+- [x] *EN* *ES* **Course Alison [Best Practices for Remote Work](https://alison.com/course/best-practices-for-remote-working)**
 - [ ] *PT* Webinar Programa Desenvolvimento de Gestores [Webinário: A importância da comunicação nas relações interpessoais no ambiente de trabalho](https://desenvolvimentodegestores.ufc.br/trilha-administrativa/formacao-comportamental/comunicacao/webinario-a-importancia-da-comunicacao-nas-relacoes-interpessoais-no-ambiente-de-trabalho/)
 - [ ] *PT* Escola Virtual [Comunicação Assertiva: Oratória, Retórica e Técnicas de Apresentação](https://www.escolavirtual.gov.br/curso/1347)
 
@@ -61,7 +61,7 @@ Aprenda a "abraçar a mudança" e esteja preparado para mudanças no projeto, al
 ### **English 1**
 Learn your English. At this level, you must know how to: write a short email; navigate technical documentation; watch and understand a video with subtitles; know the meaning of programming language keywords; and pronounce correctly the names of major brands and products.
 
-- [English Pass](https://englishpassbr.com/)
+- [x] [English Pass](https://englishpassbr.com/)
 
 ## Level 2
 **Inter-team communication**
@@ -86,8 +86,8 @@ Learn how to give short presentations. Know what to say, at what speed and tone.
 Aprenda a fazer apresentações curtas. Saiba o que falar, em que velocidade e tom. Detalhe tanto quanto o público precisar. Crie uma apresentação no PowerPoint rapidamente e dedique um tempo para torná-la agradável aos olhos.
 
 - [ ] *PT* Blog ispring [12 dicas powerpoint para apresentações profissionais e envolventes](https://www.ispringpro.com.br/blog/dicas-de-apresentacao-powerpoint)
-- [ ] *EN* Presentation McGill University [PowerPoint Presentation Guidelines](https://www.mcgill.ca/skillsets/files/skillsets/powerpointguidelines.pdf)
-- [ ] *EN* MS PowerPoint [Presentation templates](https://powerpoint.cloud.microsoft/create/en/presentation-templates/?source=create_flow)
+- [x] *EN* Presentation McGill University [PowerPoint Presentation Guidelines](https://www.mcgill.ca/skillsets/files/skillsets/powerpointguidelines.pdf)
+- [x] *EN* MS PowerPoint [Presentation templates](https://powerpoint.cloud.microsoft/create/en/presentation-templates/?source=create_flow)
 - [ ] *EN* Blog Hubspot [PowerPoint Tips to Present Like a Pro](https://blog.hubspot.com/marketing/easy-powerpoint-design-tricks-ht)
 - [ ] *EN* Blog VerdanaBold [The 10-20-30 Rule of PowerPoint – How it Can Make (or Break) Your Best Marketing Presentations](https://www.verdanabold.com/post/the-10-20-30-rule-of-powerpoint-how-it-can-make-or-break-your-best-marketing-presentations)
 
@@ -105,7 +105,7 @@ Primeiramente, se você ainda não sabe, está na hora de aprender o que é ment
 ### **English 2**
 Improve your English. At this level, you must know how to: watch videos with English transcriptions; understand most of what's being said in meeting; write slides for a presentation; say short sentences in front of an audience; use most of your tools and research websites in English.
 
-- [English Pass](https://englishpassbr.com/)
+- [x] [English Pass](https://englishpassbr.com/)
 
 ## Level 3
 **Knowledge Share**
@@ -122,7 +122,7 @@ Define (or reshape) a repository of lessons learned—a place where you can shar
 Defina (ou reformule) um repositório de lições aprendidas—um local onde você pode compartilhar conhecimentos que não estão em livros didáticos, tutoriais ou cursos. Aprenda a torná-lo legível e pesquisável. Inclua informações como o cliente ou projeto em que ocorreu, o cenário técnico e com que frequência é aplicável.
 
 - [ ] *EN* [Wiki.js](https://js.wiki/)
-- [ ] *EN* [Github.com](https://github.com/)
+- [x] *EN* [Github.com](https://github.com/)
 
 ### Best practices and patterns
 Learning from the giants can only take you so far. They don't know you or your context, which means that not everything they describe may apply. Your experience brings value, especially those moments that were a great success (or a great failure). Let's look at what you usually do, your "best practices", or some standards you apply in your projects, your "patterns", and see if they make sense and are applicable for the rest of the team.
@@ -135,4 +135,4 @@ Aprender com os gigantes só pode te levar até certo ponto. Eles não conhecem 
 ### **English 3**
 Master your English. At this level, you must know how to: talk to stakeholders and coworkers around the globe; understand Indian English, French English, German English, etc.; write reports and technical specifications; and use your native language as the secondary one.
 
-- [English Pass](https://englishpassbr.com/)
+- [x] [English Pass](https://englishpassbr.com/)
