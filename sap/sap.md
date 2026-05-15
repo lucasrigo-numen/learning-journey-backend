@@ -28,6 +28,7 @@ Saiba o que é um software de Planejamento de Recursos Empresariais (ERP) e como
 - [x] *PT* SAP [O que é ERP?](https://www.sap.com/brazil/resources/what-is-erp)
 - [ ] *EN* Blog [Top SAP Modules For Freshers: Which SAP Module Should You Learn First?](https://infycletechnologies.com/top-sap-modules-for-freshers-which-sap-module-should-you-learn-first/)
 - [ ] *EN* Blog [An Overview of the Most Important SAP Modules](https://ecosio.com/en/blog/an-overview-of-the-most-important-sap-erp-modules/)
+- [ ] outro link
 
 ### SAP BTP
 A Cloud Platform must be able to support its applications by either providing the resources and services they need or enabling access to external service providers. SAP's own take on this is called SAP Business Technology Platform, because it provides the resources and services a business needs.
